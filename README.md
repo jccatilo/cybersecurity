@@ -20,7 +20,7 @@ There are three certain in IT we need to know when entering the world/career of 
  ## Networking
  - CompTIA Network+
  - CCNA
- - You can refer to my repo above called "[Networking Refresher](https://wwww.github.com/jccatilo/cybersecurity/tree/main/Networking-Refresher)" to know some basic concepts like IP addresses, the OSI Layer, common ports and protocols, and what not that I think you will encounter in the learning stages of cyber security / ethical hacking
+ - You can refer to my repo above called "[Networking Refresher](https://github.com/jccatilo/cybersecurity/tree/main/Networking%20refresher)" to know some basic concepts like IP addresses, the OSI Layer, common ports and protocols, and what not that I think you will encounter in the learning stages of cyber security / ethical hacking
  ---
 
  ## Coding Skills
