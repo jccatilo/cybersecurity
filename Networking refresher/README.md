@@ -1,17 +1,17 @@
-How to use hack the box
+# Welcome to my network refresher guide!
 
-prerequisites:
-1.) install openvpn 
-2.) download your acounts vpn file
+Networking is a broad topic. In this guide, I am going to narrow the topics down to just the essential terms and concepts that I'm pretty sure you will encounter during surface level cyber security, ethical hacking, and/or penetration testing.
 
-Capturing flags:
-1.) open your terminal and run your vpn using "sudo openvpn vpn_file.ovpn"
-2.) Press start on your machine
-3.) To verify that the machine is up and your vpn connection is okay, ping the machine in your terminal
-4.) you are all set.
+1. IP Addresses
 
-Scanning
-1.) NMAP
-	nmap -A -p- -T4 X.X.X.X #IP address of the machine. 
-	>the goal is to look for open ports, know the services that are being run on the machine, know the versions and their vulnerablities that we can exploit.
+2. MAC Addresses
 
+3. TCP, UDP, and 3-way handshakes
+
+4. Other common ports and protocols
+
+5. The OSI Model
+
+6. Subnetting
+
+# Under construction.
