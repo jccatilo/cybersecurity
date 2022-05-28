@@ -13,6 +13,7 @@ Learn more at: [https://owasp.org/Top10/A00_2021_Introduction/](https://owasp.or
 ## OWASP Top 10 V.2021
 
 1. Broken Access Control
+
 - This is when a user can see things he shouldn't on an app or a website.
 - Commonly done via URL modification
 - Also known as Privilege escalation.
@@ -83,6 +84,8 @@ Learn more at: [https://owasp.org/Top10/A00_2021_Introduction/](https://owasp.or
     > A retail chain’s e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
 
 5. Security Misconfiguration
+
+
 6. Vulnerable and outdated components
 7. Identification and authentication failures
 8. Software and data integrity failures
