@@ -1,7 +1,7 @@
 # Welcome to my cybersecurity repository
 > The contents of this branch are just compilations of my notes during the random times when I want to learn cybersecurity.
 
-There are certain skills in IT we need to know when entering the world/career of cybersecurity:
+There are certain skills/knowledge we need to know when entering the world/career of cybersecurity:
 
 - Basic IT Skills
 - Linux Fundamentals
