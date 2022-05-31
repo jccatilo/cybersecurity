@@ -45,6 +45,7 @@ There are certain skills/knowledge we need to know when entering the world/caree
  ---
 
 Other good reads:
+- [Install Kali Linux to Oracle Virtual Box](https://github.com/jccatilo/cybersecurity/tree/main/Installing%20Kali%20virtual%20machine)
 - Free [Professor Messer's CompTIA Security+ Videos](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
 - My repo on [OWASP Top 10 V.2021](https://github.com/jccatilo/cybersecurity/tree/main/OWASP%20Top%2010%20(v.%202021))
 - [Professor Messer's Website](https://www.professormesser.com/)
