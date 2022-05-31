@@ -15,7 +15,7 @@ Quick pre-requisites:
     > - there will be options for Windows hosts, OS X hosts, and linux distributions. Just make sure you are picking the correct one. 
     > - the "hosts" refers to the current operating system you are using.
     >When downloading is done, you should have an installer file. Since I'm currently on windows OS, I have a .exe file.
-    >Install the .exe file by clicking on the 
+    >Install the .exe file by clicking on the file and just follow through the standard installation. 
 
 3. On your computer, launch the installed virtual box and click "New".
 
