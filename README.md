@@ -49,3 +49,4 @@ Other good reads:
 - Free [Professor Messer's CompTIA Security+ Videos](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
 - My repo on [OWASP Top 10 V.2021](https://github.com/jccatilo/cybersecurity/tree/main/OWASP%20Top%2010%20(v.%202021))
 - [Professor Messer's Website](https://www.professormesser.com/)
+- Podcasts like **The DarkNet Diaries**
